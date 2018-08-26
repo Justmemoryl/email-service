@@ -33,7 +33,7 @@ public class MailServiceTest {
                 "    <h3>hello world ! 这是一封html邮件!</h3>\n" +
                 "</body>\n" +
                 "</html>";
-        mailService.sendHtmlMail("ityouknow@126.com","test simple mail",content);
+        mailService.sendHtmlMail("447699084@qq.com","test simple mail",content);
     }
 
     @Test
